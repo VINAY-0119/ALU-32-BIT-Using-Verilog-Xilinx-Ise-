@@ -156,7 +156,8 @@ Simulated in **Xilinx ISim** across a **~315 ns** window using a testbench with 
 | `test_ops2[0..3]` | Sub-vectors show `101`, `100110`, `1`, `0` — matching expected results |
 
 ### Waveform Screenshot
-![ALU Simulation symbol](symbol.png)
+![ALU  symbol](symbol.png)
+![ALU RTL SCHEMATIC](RTL Schematic.png)
 ![ALU Simulation Waveform](sim_waveform.png)
 
 > *ISim waveform showing `result_out`, operands, `Opcode_in` bit breakdown, and test array sub-elements across 315 ns.*

@@ -228,11 +228,6 @@ This ALU implements the computational core of the **RV32I base integer ISA**. It
 - Register file or data memory interface
 - Instruction fetch / decode / control unit
 
----
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 
 

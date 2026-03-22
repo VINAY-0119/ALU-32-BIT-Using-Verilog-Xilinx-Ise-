@@ -157,7 +157,7 @@ Simulated in **Xilinx ISim** across a **~315 ns** window using a testbench with 
 
 ### Waveform Screenshot
 ![ALU  symbol](symbol.png)
-![ALU RTL ](RTL Schematic.png)
+![ALU RTL ](RTLSchematic.png)
 ![ALU Simulation Waveform](sim_waveform.png)
 
 > *ISim waveform showing `result_out`, operands, `Opcode_in` bit breakdown, and test array sub-elements across 315 ns.*
